@@ -68,6 +68,7 @@ a:hover {
 
 .profile-img {
   width: 20%;
+  border-radius: 10%;
 }
 
 .skill-row {
